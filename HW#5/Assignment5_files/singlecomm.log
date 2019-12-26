@@ -1,0 +1,20 @@
+starting log: Sun Dec  1 20:02:12 2019
+running on: zhouzihuideMBP.cable.rcn.com
+
+network file: t2.dat
+reading network file t2.dat
+m = 9 m = 20
+found END on line 36
+Now constructing adjacencies
+writing problem to  LP file prob1-a.lp
+node 1 has outdeg 4 indeg 0
+node 2 has outdeg 4 indeg 0
+node 3 has outdeg 4 indeg 0
+node 4 has outdeg 4 indeg 0
+node 5 has outdeg 4 indeg 0
+node 6 has outdeg 0 indeg 5
+node 7 has outdeg 0 indeg 5
+node 8 has outdeg 0 indeg 5
+node 9 has outdeg 0 indeg 5
+
+closing log: Sun Dec  1 20:02:12 2019
